@@ -1,0 +1,31 @@
+.style-input
+{
+    height: 56px;
+    width: 250px;
+
+}
+.content-center
+{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.d-inline
+{
+    display: inline-block !important;
+}
+.jumbotron
+{
+    background-color: #e6825663;
+}
+
+.btn-primary
+{
+    background-color: #f5cebd;
+    border: solid #f5cebd 1px;
+}
+.btn-primary:hover
+{
+    border: solid #F97B87 1px;
+    background-color: #F97B87;
+}
